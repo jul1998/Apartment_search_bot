@@ -119,20 +119,3 @@ data.autofill_form()
 
 
 
-# raw_apartment_titles = soup.find_all(class_="ann-ad-tile__title")
-# apartment_titles_list = [apartment_title.text.strip() for apartment_title in raw_apartment_titles]
-# print(apartment_titles_list)
-
-# raw_apartment_descriptions = soup.find_all(class_="ann-ad-tile__short-description")
-# apartment_description_list = [apartment_description.text.strip() for apartment_description in raw_apartment_descriptions]
-# print(apartment_description_list)
-#
-# raw_apartment_price = soup.find_all()
-
-
-
-
-
-
-
-
